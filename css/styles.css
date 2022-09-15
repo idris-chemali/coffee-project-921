@@ -402,6 +402,19 @@ fieldset {
   border: 0;
 }
 
+.new-coffe h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  margin-bottom: 4rem;
+}
+
+.new-coffe h1:hover {
+  color: grey;
+  cursor: pointer;
+}
+
 legend {
   float: left;
   width: 100%;
